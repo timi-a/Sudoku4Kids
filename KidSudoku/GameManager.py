@@ -16,9 +16,9 @@ Features:
 - Input validation to ensure correct and valid entries.
 - Dynamic feedback for rule violations (horizontal, vertical, or square rule).
 
-BUGS:
-- Sometimes rules are not executed correctly.
-- Occasionally, an error message is displayed even when the user correctly inputs a row number, column number, and value.
+BUGS (RARE):
+- Rules are not executed correctly.
+- An error message is displayed even when the user correctly inputs a row number, column number, and value.
 '''
 
 # Imports-------------------------------
