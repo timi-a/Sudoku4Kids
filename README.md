@@ -8,3 +8,5 @@ Sudoku Adventure: Kids Edition is a console-based implementation of a 4x4 Sudoku
 - **Interactive Gameplay:** Provides dynamic feedback and hints to guide players through the game.
 - **Rule Enforcement:** Ensures that all standard Sudoku rules (horizontal, vertical, and square) are followed.
 - **Colorful Output:** Uses color codes in the console to enhance the gameplay experience.
+
+Install any Python software environment on your computer and give this game a try!
